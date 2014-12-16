@@ -8,4 +8,4 @@ This is a ASM Calulator written for the NASM Assembler.
 2. Compute the Solution to A and B in Base Y.
 
 ##Note
-*Only runnable in Kernal Mode.
+* Only runnable in Kernal Mode.
